@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi all 👋
 
 <!--
 **oziomek1/oziomek1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Wojciech (Pronunciation IPA: /ˈvɔj.t͡ɕɛx/)
+
+and I specialize in turning ideas into functional products 🔭.
+
+If you want to know more about me, do not hesitate to visit my website [wojciechozimek.com](https://wojciechozimek.com/)
+
+Thanks! 👋
